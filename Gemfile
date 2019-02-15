@@ -9,6 +9,8 @@ gem 'rails', '~> 5.2.2'
 gem 'sqlite3', '~> 1.3.6'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
+
+gem 'bcrypt', '~> 3.1.12'
 # Use SCSS for stylesheets '>= 2.0.0' gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
@@ -62,4 +64,3 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
