@@ -1,0 +1,32 @@
+<h1 align="center"> Listing all categories </h1>
+<p> <%= link_to "Add category", new_category_path %> </p>
+
+
+<% @categories.each do |category|%>
+<div class="row">
+  <div class="col-xs-8 col-xs-offset-2">
+    <div class="well well-lg">
+      <div class="article-title">
+        <%= link_to category.name, category_path(category) %>
+      </div>
+
+      <div class="article-body">
+        <%= truncate(category.name, length: 100) %>
+        <div class="article-meta-details">
+          <small> Created at: <%= time_ago_in_words(category.created_at)%> ago,
+            Last updated: <%= time_ago_in_words(category.updated_at)%> ag
+          </small>
+        </div>
+      </div>
+
+      <div class="article-actions">
+        <%= link_to "Edit category", edit_category_path(category), class: "btn btn-xs btn-primary" %>
+        <%= link_to "Delete category", category_path(category),
+                                      class: "btn btn-xs btn-danger", method: :delete,
+                                      data: {confirm: "Are you sure you want to delete the category?"}%>
+      </div>
+
+    </div>
+  </div>
+</div>
+<% end %>

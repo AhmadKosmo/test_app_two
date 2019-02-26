@@ -1,0 +1,149 @@
+[33mcommit 20a5aa12fe33052113b385e9da5ba921afbf7e8c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Fri Feb 15 13:56:41 2019 +0100
+
+    Adding authentication
+
+[33mcommit b49d725003084b4b8c0b0b95957bccc9682b8fc7[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Fri Feb 15 12:00:27 2019 +0100
+
+    Add user meta-data to articles listing page
+
+[33mcommit 6c25df0d1088cb0acff40ac9b8f74cbf0d82cebb[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Fri Feb 15 11:44:37 2019 +0100
+
+    Add association between users and article and add debugger view
+
+[33mcommit b7ff42a2c425bef827b7e618c6f9c7a22e6887b4[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Fri Feb 15 10:47:32 2019 +0100
+
+    Adding validations for user class
+
+[33mcommit dacdb35b8ee969b3416a25c07ea6a3b91103ed4f[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Thu Feb 14 17:05:19 2019 +0100
+
+    create users table and model
+
+[33mcommit 56be91e558a2ed3866663de9e45d9b4bb8ff3074[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 18:12:04 2019 +0100
+
+    Style articles
+
+[33mcommit 55987db0767bae7347d6b6aa3834d4cc8d243bc2[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 17:58:15 2019 +0100
+
+    Add styling to show template
+
+[33mcommit d5db438a5f5af5107dd0816c85b046dd5e5afc36[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 17:38:00 2019 +0100
+
+    styles errors
+
+[33mcommit b401a1fb796fb4d1228e5ccfa090224a5d395298[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 17:08:21 2019 +0100
+
+    Style forme partial
+
+[33mcommit 28abaf3a77cba753f78f0757e0775ad85be7caa2[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 15:48:16 2019 +0100
+
+    Create home page and add links
+
+[33mcommit 22403ea2ec335f06d4fe42c09685cc24256c9bb6[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 12:07:25 2019 +0100
+
+    Install bootstrap last version
+
+[33mcommit eaa6adbc1507c09708369d8f0e582682e60da79e[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Wed Feb 13 11:03:04 2019 +0100
+
+    Install Bootstrap
+
+[33mcommit a1679c94e7ace28f015b4fef62cff33da38ad897[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Tue Feb 12 15:55:04 2019 +0100
+
+    Adding bootstrap
+
+[33mcommit e9f87a0535551ac5ec251fa66a80f3238a58a3b1[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Tue Feb 12 15:23:43 2019 +0100
+
+    Install bootstrap
+
+[33mcommit 2b4e4e0134d941b9e40bd30d9f78363501fbc20b[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Tue Feb 12 14:32:39 2019 +0100
+
+    extract redundancy
+
+[33mcommit 640807c6b2f30b601be76c57cdf9586759841804[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Tue Feb 12 14:20:53 2019 +0100
+
+    Add partials and destroy action
+
+[33mcommit 8c789142fbfc448fdd674ac18ca04700089f24ed[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Tue Feb 12 12:17:46 2019 +0100
+
+    Edit, update, show and index listing
+
+[33mcommit e700430d63256bf9a3026d5c21d74e34b54145d0[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Tue Feb 12 11:30:03 2019 +0100
+
+    Fix create, add flash and error messages, create show
+
+[33mcommit 166f24a2e98f735ab093a6bf9d36d6663301a6f3[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 17:45:13 2019 +0100
+
+    adding new article
+
+[33mcommit 32b278d751884c30ebae5286d8622046f50e2164[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 16:31:55 2019 +0100
+
+    create articles with modification
+
+[33mcommit 14bb3a737a1c1d8737b8a157459a8dca27fe5863[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 15:47:43 2019 +0100
+
+    Adding table Article with two rows
+
+[33mcommit ad1c1b0e170f91fe06640ae93e1367d480384c6d[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 14:56:10 2019 +0100
+
+    effacer le controleur et les views
+
+[33mcommit 1d2fd431ae452f07d54e84b439b461bcb954f5f7[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 14:41:42 2019 +0100
+
+    removing Articles Table
+
+[33mcommit a0bed420abad69d3335d74a7a041d17b6d505b25[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 12:21:24 2019 +0100
+
+    First commit changing the READM file
+
+[33mcommit 7d0012bced0b378b6dee9539b7f51b39a38d6871[m
+Author: Ahmad Moussa <ahmad.moussa@kosmopolead.com>
+Date:   Mon Feb 11 11:53:04 2019 +0100
+
+    Create rails application and setup home and about pages
