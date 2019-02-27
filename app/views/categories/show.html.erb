@@ -2,6 +2,10 @@
 <div class="well col-xs-8 col-xs-offset-2">
   <hr>
 
+  <div class="row">
+    <span class="badge"> <%= link_to "Edit Category Name", edit_category_path(@category)%> </span>
+  </div>
+
   <div class="article-actions">
     <%= link_to "All Categories", categories_path, class: "btn btn-xs btn-success"%>
     <%= link_to "Edit Category", edit_category_path(@category), class: "btn btn-xs btn-primary" %>
