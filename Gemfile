@@ -11,6 +11,8 @@ gem 'sqlite3', '~> 1.3.6'
 gem 'puma', '~> 3.11'
 
 gem 'bcrypt', '~> 3.1.12'
+gem 'will_paginate', '3.1.5'
+gem 'bootstrap-will_paginate', '1.0.0'
 # Use SCSS for stylesheets '>= 2.0.0' gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
